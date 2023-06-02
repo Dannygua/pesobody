@@ -973,7 +973,7 @@ if (reversed == null) { reversed = false; }
 	this.cara1.name = "cara1";
 	this.cara1.setTransform(410.55,47.05,1,1,0,0,0,10.5,12.2);
 
-	this.texto = new cjs.Text("MEDIDAS DEL CUERPO", "20px 'Yu Gothic UI'");
+	this.texto = new cjs.Text("PESO DEL PACIENTE", "20px 'Yu Gothic UI'");
 	this.texto.name = "texto";
 	this.texto.textAlign = "center";
 	this.texto.lineHeight = 29;
